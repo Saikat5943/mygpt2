@@ -33,7 +33,7 @@ To deploy this project run
 that deployed in Netlify
 
 ```bash
-https://github.com/Saikat5943/mygpt1.git
+https://github.com/Saikat5943/mygpt2.git
 ```
 ## Features
 
